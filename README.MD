@@ -1,7 +1,7 @@
 # Week 5 – Practical Implementation
 
 ## Overview
-This week focuses on User Acceptance Testing (UAT) and refinement of the Privacy Impact Assessment (PIA) framework.
+This week focuses on User Acceptance Testing (UAT) and refinement of the Security Missconfiguration framework.
 
 ## Key Implementations
 
