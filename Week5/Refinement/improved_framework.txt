@@ -1,1 +1,6 @@
 
+Improved Framework:
+- Added 1–5 quantitative scoring
+- Implemented risk classification (Low, Medium, High)
+- Mapped to GDPR principles
+- Improved ethical bias analysis
