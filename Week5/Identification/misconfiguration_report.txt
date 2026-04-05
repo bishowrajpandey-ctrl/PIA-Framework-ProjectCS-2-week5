@@ -1,0 +1,9 @@
+Identified Security Issues:
+
+1. Debug mode is enabled → exposes system info
+2. No authentication security
+3. No HTTPS encryption
+4. Lack of input validation
+5. Sensitive data exposure risk
+
+Risk Level: HIGH
