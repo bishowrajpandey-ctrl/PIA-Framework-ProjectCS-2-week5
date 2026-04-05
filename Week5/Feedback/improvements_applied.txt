@@ -1,1 +1,6 @@
+Improvements Applied:
 
+- Introduced 1–5 scoring model
+- Added GDPR-based legal mapping
+- Implemented risk levels (Low, Medium, High)
+- Enhanced bias and fairness explanation
