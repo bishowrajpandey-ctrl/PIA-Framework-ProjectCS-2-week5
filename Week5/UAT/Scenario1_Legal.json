@@ -1,1 +1,12 @@
-
+{
+  "scenario": "GDPR Legal Compliance",
+  "input": "Airport facial recognition system",
+  "criteria": ["Transparency", "Consent", "Lawful Processing"],
+  "findings": {
+    "transparency": "Weak",
+    "consent": "Missing",
+    "lawful_processing": "Partial"
+  },
+  "score": 3,
+  "result": "Partial Compliance"
+}
