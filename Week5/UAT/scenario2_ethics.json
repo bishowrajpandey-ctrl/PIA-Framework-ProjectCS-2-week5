@@ -1,1 +1,12 @@
-
+{
+  "scenario": "Ethical Evaluation",
+  "input": "Facial recognition system",
+  "criteria": ["Fairness", "Bias", "Proportionality"],
+  "findings": {
+    "bias": "High",
+    "fairness": "Low",
+    "proportionality": "Concern"
+  },
+  "score": 2,
+  "result": "High Ethical Risk"
+}
