@@ -1,1 +1,5 @@
-
+Old Framework:
+- Based on qualitative judgement
+- No scoring system
+- No risk classification
+- Limited GDPR mapping
