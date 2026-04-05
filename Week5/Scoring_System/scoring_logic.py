@@ -11,3 +11,6 @@ average = total / len(scores)
 print("Scores:", scores)
 print("Total Score:", total)
 print("Average Score:", round(average, 2))
+
+
+=AVERAGE(B2:B4)
