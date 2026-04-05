@@ -1,1 +1,6 @@
+Stakeholder Feedback:
 
+- Scoring system unclear
+- Legal mapping not specific to GDPR
+- Risk classification missing
+- Ethical bias explanation insufficient
