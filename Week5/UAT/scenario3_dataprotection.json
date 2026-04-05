@@ -1,1 +1,12 @@
-
+{
+  "scenario": "Data Protection",
+  "input": "Biometric data system",
+  "criteria": ["Encryption", "Access Control", "Data Retention"],
+  "findings": {
+    "encryption": "Present",
+    "access_control": "Weak",
+    "data_retention": "Unclear"
+  },
+  "score": 3,
+  "result": "Moderate Risk"
+}
