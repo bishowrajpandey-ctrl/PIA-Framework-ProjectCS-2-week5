@@ -1,1 +1,7 @@
+Security Misconfiguration (Before Fix)
 
+- Debug mode enabled
+- Default credentials used (admin/admin)
+- No HTTPS encryption
+- Directory listing enabled
+- No input validation
