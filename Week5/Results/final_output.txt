@@ -1,1 +1,10 @@
+Final Evaluation Results
 
+Legal Compliance: 3/5 → Medium Risk
+Ethical Evaluation: 2/5 → High Risk
+Data Protection: 3/5 → Medium Risk
+
+Overall Risk Level: Medium
+
+Conclusion:
+The system shows moderate compliance but has significant ethical concerns.
