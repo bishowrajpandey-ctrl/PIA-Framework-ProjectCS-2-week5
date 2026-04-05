@@ -1,0 +1,5 @@
+Application Status:
+
+Debug Mode: ON
+Security Level: LOW
+System Vulnerable: YES
