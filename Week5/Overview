@@ -1,0 +1,24 @@
+PROJECT STRUCTURE 
+│
+├── app/
+│   ├── vulnerable_app.py
+│   ├── secure_app.py
+│   └── config.py
+│
+├── uat/
+│   ├── scenario_legal.json
+│   ├── scenario_ethics.json
+│   ├── scenario_dataprotection.json
+│
+├── scoring/
+│   ├── scoring_logic.py
+│
+├── risk/
+│   ├── risk_logic.py
+│
+├── results/
+│   ├── output_results.txt
+│
+├── main_test.py
+├── requirements.txt
+└── README.md
